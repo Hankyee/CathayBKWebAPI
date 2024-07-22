@@ -1,0 +1,6 @@
+@CathayBkWebAPI_HostAddress = http://localhost:5092
+
+GET {{CathayBkWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
